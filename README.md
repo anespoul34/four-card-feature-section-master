@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [link](link)
-- Live Site URL: [link](link)
+- Solution URL: [link](https://www.frontendmentor.io/solutions/four-card-feature-using-htmlcss-and-grid-i4U6_fZSr5)
+- Live Site URL: [link](https://four-card-feature-section-master-three-sigma.vercel.app/)
 
 ## My process
 
